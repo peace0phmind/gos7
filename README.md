@@ -87,3 +87,9 @@ License
 https://opensource.org/licenses/BSD-3-Clause
 
 Copyright (c) 2018, robinson
+
+
+Testing
+----------
+cd test
+go test -v my_test.go
