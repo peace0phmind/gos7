@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"../../gos7"
-	"sync"
 	"fmt"
+	"gos7"
+	"sync"
 )
 
 const (

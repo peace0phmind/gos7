@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"../../gos7"
+	"gos7"
 )
 
 //ClientTestAll client test all
